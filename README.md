@@ -4,7 +4,7 @@
 ```
 npm install
 ```
-### Usuarioas y Password
+### Usuarios y Password
 ```
 monster@email.com -> 123456
 laravel@email.com -> 123456
